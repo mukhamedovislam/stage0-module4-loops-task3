@@ -12,6 +12,7 @@ public class RangeSum {
 			result += firstBoarder;
 			firstBoarder++;
 		}
+		System.out.println(result);
 	}
     }
 }
